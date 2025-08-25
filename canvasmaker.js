@@ -1,0 +1,1 @@
+document.querySelectorAll("canvas")[0].getContext("2d").scale(8,8);
